@@ -10,4 +10,4 @@ SECRET = st.text_input("Enter your secret:")
 
 # Two-legged
 sc = schoolopy.Schoology(schoolopy.Auth(KEY, SECRET))
-sc.get_feed()
+
