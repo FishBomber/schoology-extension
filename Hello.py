@@ -1,5 +1,5 @@
 import streamlit as st
-from schoology import schoology
+from schoology import Schoology
 
 
 st.title("Schoology App")
