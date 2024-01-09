@@ -1,5 +1,5 @@
 import streamlit as st
-import schoolopy
+from schoolopy import Schoology
 
 
 st.title("Schoology App")
